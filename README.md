@@ -4,10 +4,10 @@
 
 Este projeto foi concebido como um desafio para implementar um sistema completo de votação eletrônica. Através desta plataforma, é possível:
 
-- Cadastrar Candidatos
-- Cadastrar Eleitores
-- Iniciar Processo de Votação: coordenação e gerenciamento do processo de votação.
-- Visualizar Resultados: capacidade de verificar resultados, sejam eles parciais ou finais, a qualquer momento.
+- Cadastrar candidatos
+- Cadastrar eleitores
+- Iniciar processo de votação: coordenação e gerenciamento do processo de votação.
+- Visualizar resultados: capacidade de verificar resultados, sejam eles parciais ou finais, a qualquer momento.
 
 O principal objetivo deste sistema é praticar a lógica de programação no contexto da programação orientada a objetos, demonstrando como a utilização desses conceitos pode resultar em um código mais claro, flexível e fácil de manter.
 
