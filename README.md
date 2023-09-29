@@ -6,8 +6,9 @@ Este projeto foi concebido como um desafio para implementar um sistema completo 
 
 - Cadastrar Candidatos
 - Cadastrar Eleitores
-- Iniciar Processo de Votação: Coordenação e gerenciamento do processo de votação.
+- Iniciar Processo de Votação: coordenação e gerenciamento do processo de votação.
 - Visualizar Resultados: Capacidade de verificar resultados, sejam eles parciais ou finais, a qualquer momento.
+
 O principal objetivo deste sistema é praticar a lógica de programação no contexto da programação orientada a objetos, demonstrando como a utilização desses conceitos pode resultar em um código mais claro, flexível e fácil de manter.
 
   ## Como executar o projeto
